@@ -1,9 +1,9 @@
 import React from 'react'
 
 const cards = [
-  { img: '/images/paris.jpg', title: 'Paris', desc: 'Experience the romance of the City of Light.' },
-  { img: '/images/newyork.jpg', title: 'New York', desc: 'Explore the vibrant culture of the Big Apple.' },
-  { img: '/images/tokyo.jpg', title: 'Tokyo', desc: 'Immerse yourself in the dynamic energy of Tokyo.' }
+  { img: 'images/paris.jpg', title: 'Paris', desc: 'Experience the romance of the City of Light.' },
+  { img: 'images/newyork.jpg', title: 'New York', desc: 'Explore the vibrant culture of the Big Apple.' },
+  { img: 'images/tokyo.jpg', title: 'Tokyo', desc: 'Immerse yourself in the dynamic energy of Tokyo.' }
 ]
 
 export default function Destinations() {

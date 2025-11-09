@@ -6,7 +6,7 @@ export default function About() {
       <h1 className="section-heading">About Us</h1>
       <div className="about-content">
         <div className="about-left">
-          <img src="/images/about_us_image.jpg" alt="About Us" />
+          <img src="images/about_us_image.jpg" alt="About Us" />
         </div>
         <div className="about-right">
           <p>

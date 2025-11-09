@@ -1,9 +1,9 @@
 import React from 'react'
 
 const packs = [
-  { img: '/images/europe_tour.jpg', title: 'Europe Tour', desc: 'Explore the wonders of Europe with our comprehensive tour package.' },
-  { img: '/images/asian_adventure.jpg', title: 'Asian Adventure', desc: 'Embark on an exciting adventure across Asia.' },
-  { img: '/images/cruise_getaway.jpg', title: 'Cruise Getaway', desc: 'Relax on a luxury cruise with breathtaking ocean views.' }
+  { img: 'images/europe_tour.jpg', title: 'Europe Tour', desc: 'Explore the wonders of Europe with our comprehensive tour package.' },
+  { img: 'images/asian_adventure.jpg', title: 'Asian Adventure', desc: 'Embark on an exciting adventure across Asia.' },
+  { img: 'images/cruise_getaway.jpg', title: 'Cruise Getaway', desc: 'Relax on a luxury cruise with breathtaking ocean views.' }
 ]
 
 export default function Packages() {

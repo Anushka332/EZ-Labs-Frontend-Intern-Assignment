@@ -61,7 +61,7 @@ body {
 
 /* Main content styles */
 .main-content {
-  background: url('/images/travel_banner.jpg') no-repeat center center;
+  background: url('images/travel_banner.jpg') no-repeat center center;
   background-size: cover;
   color: rgb(17, 17, 17);
   display: flex;

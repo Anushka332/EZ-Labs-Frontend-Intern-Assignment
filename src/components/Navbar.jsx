@@ -5,7 +5,7 @@ export default function Navbar() {
     <header className="navbar">
       <div className="nav-inner">
         <div className="profile">
-          <img className="profile-img" src="/images/logo.png" alt="Logo" />
+          <img className="profile-img" src="images/logo.png" alt="Logo" />
           <span className="brand">TravelDreams</span>
         </div>
         <nav className="nav-links">

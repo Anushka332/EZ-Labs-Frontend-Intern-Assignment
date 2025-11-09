@@ -5,7 +5,7 @@ export default function Footer(){
     <footer className="site-footer">
       <div className="footer-inner">
         <div className="footer-left">
-          <img src="/images/logo.png" alt="TravelDreams" className="footer-logo" />
+          <img src="images/logo.png" alt="TravelDreams" className="footer-logo" />
           <p>© {new Date().getFullYear()} TravelDreams. All rights reserved.</p>
           <p className="footer-email">Contact: <a href="mailto:info@traveldreams.com">info@traveldreams.com</a></p>
         </div>

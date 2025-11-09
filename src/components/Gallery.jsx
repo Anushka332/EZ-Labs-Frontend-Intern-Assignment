@@ -1,6 +1,6 @@
 import React from 'react'
 
-const imgs = ['/images/beach.jpg','/images/mountain.jpg','/images/forest.jpg','/images/city.jpg']
+const imgs = ['images/beach.jpg','images/mountain.jpg','images/forest.jpg','images/city.jpg']
 
 export default function Gallery(){
   return (
